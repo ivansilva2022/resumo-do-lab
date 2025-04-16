@@ -15,8 +15,11 @@ Dados referentes aos tipos de Nuvens (pública / privada / híbrida e "multiclou
 Benefícios da Computação em Nuvem
 Quais os benefícios na contratação do serviço de nuvem, alta disponibilidade - SLA, escalabilidade, confiabilidade, elasticidade (um conceito bem explicado, ou seja utiliza conforme a necessidade), gerenciabilidade, previsibilidade, segurança. 
 
-Os próximos desafios são:
-Criando maquinas virtuais na Azure / Configurando uma instancia de Banco de Dados na Azure / Explorando conceitos e benefícios da computação em nuvem
+Desafios concluidos:
+Criando maquinas virtuais na Azure & Configurando uma instancia de Banco de Dados na Azure 
+
+Desafios em andamento
+Explorando conceitos e benefícios da computação em nuvem
 E para estes desafios, os cursos são:
 
 Tipos de serviços de nuvem
