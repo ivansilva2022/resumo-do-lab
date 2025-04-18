@@ -27,4 +27,3 @@ Identidade, Acesso e segurança
 e o Curso de desafio do Código: Aperfeiçoe sua lógica e pensamento computacional
 
 E com isso finaliza as atividades relacionadas a Introdução a Computação em Nuvem
-}
