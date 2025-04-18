@@ -1,10 +1,10 @@
-// # resumo-do-lab
-// Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
-{GitHub
-Como já tinha  uma conta criada no github, os únicos passos necessários foram de criação de um novo repositório e do Readme para as lições aprendidas no curso da Microsoft Azure (Cloud)
+# Resumo-do-lab
 
-Microsoft Azure
-Etapas concluídas dos cursos do Módulo de Introdução a Computação em Nuvem:
+## Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+
+Como já tinha  uma conta criada no github, os únicos passos necessários foram de criação de um novo repositório e do Readme para as lições aprendidas no curso da Microsoft Azure (Cloud)
+### Microsoft Azure
+### Etapas concluídas dos cursos do Módulo de Introdução a Computação em Nuvem:
 Introdução a Experiencia XP
 Como a Computação em Nuvem Funciona >> 
 Exemplo do professor Felipe Aguiar foi espetacular, referente a maquina de lavar roupas e da lavanderia... não tem como esquecer... Professor excelente!!
